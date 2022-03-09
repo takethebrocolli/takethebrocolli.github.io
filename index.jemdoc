@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Wenhan Xia
+
+~~~
+{}{img_left}{pics/1.png}{alt text}{300}{280}{https://www.cs.princeton.edu/people/grad}
+PhD student \n [https://ece.princeton.edu/people/wenhan-xia Electrical and Computer Engineering], \n[https://www.princeton.edu/ Princeton University]\n
+E-mail: wxia@princeton.edu
+~~~
+
+== About me
+I am a PhD candidate at Princeton University where I am fortunate to be advised by Prof. Elad Hazan. I am also a student researcher at Google Brain. I am a receipient of the Gorden Wu Fellowship and NSF Graduate Research Fellowship. Before Princeton, I received B.S. (Summa Cum Laude) in Electrical and Computer Engineering from Cornell University in 2019. 
+
+== Research
+My research interests lie in online optimization, efficient deep learning, and deep reinforcement learning. 
+
+=== Preprints
+. Zhou Lu, Wenhan Xia, Sanjeev Arora, and Elad Hazan, \"Adaptive Gradient Methods with Local Guarantees\".\[[https://arxiv.org/abs/2203.01400 pdf]\]
+
+=== Publications 
+. Daniel Suo, Naman Agarwal, Wenhan Xia, Xinyi Chen, Udaya Ghai, Alexander Yu, Paula Gradu, Karan Singh, Cyril Zhang, Edgar Minasyan, Julienne LaChance, Tom Zajdel, Manuel Schottdorf, Daniel Cohen, and Elad Hazan, \"Machine Learning for Mechanical Ventilation Control\", in Machine Learning for Health (ML4H) 2021. \[[https://arxiv.org/pdf/2102.06779.pdf pdf]\]
+. Wenhan Xia, Hongxu Yin, Xiaoliang Dai, and Niraj K Jha, \"Fully Dynamic Inference with Deep Neural Networks\", in IEEE Transactions on Emerging Topics in Computing 2020. \[[https://ieeexplore.ieee.org/document/9345986 pdf]\]
+. Wenhan Xia, Hongxu Yin, and Niraj K Jha, \" Efficient Synthesis of Compact Deep Neural Networks \", in 57th ACM/IEEE Design Automation Conference (DAC) 2020. \[[https://dl.acm.org/doi/10.5555/3437539.3437572 pdf]\]\
